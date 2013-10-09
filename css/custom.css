@@ -1,0 +1,23 @@
+#icon-1 {
+  background: url("../images/icons/icon-face.jpg") no-repeat scroll 0 0 transparent;
+  display: block;
+  height: 2.5em;
+  text-indent: -9999px; }
+
+#icon-2 {
+  background: url("../images/icons/icon-google.jpg") no-repeat scroll 0 0 transparent;
+  display: block;
+  height: 2.5em;
+  text-indent: -9999px; }
+
+#icon-3 {
+  background: url("../images/icons/icon-tw.jpg") no-repeat scroll 0 0 transparent;
+  display: block;
+  height: 2.5em;
+  text-indent: -9999px; }
+
+#icon-4 {
+  background: url("../images/icons/icon-rss.jpg") no-repeat scroll 0 0 transparent;
+  display: block;
+  height: 2.5em;
+  text-indent: -9999px; }
